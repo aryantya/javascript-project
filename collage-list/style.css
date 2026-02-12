@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+#contry{
+    font-size: 20px;
+}
+#button{
+    font-size: 20px;
+}
+li{
+    width: 400px;
+    height: flex;
+    background-color: lightslategrey;
+    border: solid black 1px;
+    margin-top: 5px;
+    text-align: center;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
